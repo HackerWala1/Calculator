@@ -5,4 +5,4 @@
 
 # THANKS
 
-# REGARDNS Python Programmer
+# REGARDS Python Programmer
